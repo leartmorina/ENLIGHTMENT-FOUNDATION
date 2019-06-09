@@ -6603,6 +6603,9 @@ footer .footer-bottom.bg-light p {
   position: fixed;
   left: 0px;
   top: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin: 0px;   
   width: 100%;
   height: 100%;
   z-index: 999999;
