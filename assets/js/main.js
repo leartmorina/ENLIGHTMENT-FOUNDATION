@@ -380,8 +380,9 @@
             Preloader Init
          ===============================================*/
         $(window).on('load', function() {
-            // Animate loader off screen
-            $(".se-pre-con").fadeOut("slow");;
+            // Animate loader off scree
+            $(".se-pre-con").delay(1000).fadeOut("slow");;
+            
         });
 
 
